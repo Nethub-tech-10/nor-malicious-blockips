@@ -114,3 +114,14 @@ sam.glamisdunesrentals.com
 telegram.me
 cal.joycedoula.com.br
 mylovedomen.asia
+*.api.playanext.com
+*.offers.playanext.com
+*.b217xlnyk0.execute-api.us-west-2.amazonaws.com
+*.d1atxff5avezsq.cloudfront.net
+*.Nirlen.com
+*.Forlen.com
+*.codebasecode.com
+*.api.zan.top
+*.polygon.api.onfinality.io
+*.norlen.cc
+*.Norlen.ee
