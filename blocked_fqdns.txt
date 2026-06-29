@@ -125,3 +125,6 @@ mylovedomen.asia
 *.polygon.api.onfinality.io
 *.norlen.cc
 *.Norlen.ee
+*.img.push-web.site
+*.api.push-webapi.site
+*.Norlen.io
