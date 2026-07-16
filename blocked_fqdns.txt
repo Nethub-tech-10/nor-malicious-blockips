@@ -134,3 +134,4 @@ mylovedomen.asia
 *.Waysmakeyourlifebetter.com
 *.Besthappyfamily.com
 *.cookandkrupa-my.sharepoint.com
+*.migrateoman.com
