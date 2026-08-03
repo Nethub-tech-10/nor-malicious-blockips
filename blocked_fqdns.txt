@@ -135,3 +135,6 @@ mylovedomen.asia
 *.Besthappyfamily.com
 *.cookandkrupa-my.sharepoint.com
 *.migrateoman.com
+*.Claarkconstruction.com
+*.docu-flex.com
+*.Norlef.com
