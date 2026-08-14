@@ -138,3 +138,11 @@ mylovedomen.asia
 *.Claarkconstruction.com
 *.docu-flex.com
 *.Norlef.com
+*.pdfsupernova.com
+*.api.vanderconf.com
+*.vinf.vanmirop.com
+*.van.vanmirop.com
+*.comeusrchrdr.com
+*.cdn.searchontec.com
+*.os.gotosearch.co
+*.rpdm5vsen0.xamlistworldfortunepro.sbs
