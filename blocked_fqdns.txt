@@ -167,3 +167,12 @@ mylovedomen.asia
 *.www.webangelo.it
 *.www.radiocommsserv.co.za
 *.www.normativatecnica.org
+*.template.net
+*.www.balloonsfiles.com
+*.dl.balloonsfiles.com
+*.trs.balloonsfiles.com
+*.report.billnclient.com
+*.purplepandagroup.com
+*.tidefern.s3.us-east-2.amazonaws.com
+*.mywebsitetransfer.com
+*.pencil6.mattbtransportation.com
