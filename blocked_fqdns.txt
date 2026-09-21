@@ -177,3 +177,11 @@ mylovedomen.asia
 *.mywebsitetransfer.com
 *.pencil6.mattbtransportation.com
 *.Norpen.uk
+*.Olvsteel.com
+*.Nodlen.com
+*.printwithblazer.com
+*.blazerhome.com
+*.api.blazerhome.com
+*.blazerbrowser.com
+*.api.blazerbrowser.com
+*.imp.blazerbrowser.com
