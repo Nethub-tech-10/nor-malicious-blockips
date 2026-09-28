@@ -185,3 +185,5 @@ mylovedomen.asia
 *.blazerbrowser.com
 *.api.blazerbrowser.com
 *.imp.blazerbrowser.com
+*.kolam.allkahoot.com
+*.Deckkoting.com
