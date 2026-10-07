@@ -187,3 +187,5 @@ mylovedomen.asia
 *.imp.blazerbrowser.com
 *.kolam.allkahoot.com
 *.Deckkoting.com
+*.Ryarson.com
+*.Norln.com
