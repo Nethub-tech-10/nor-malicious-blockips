@@ -189,3 +189,4 @@ mylovedomen.asia
 *.Deckkoting.com
 *.Ryarson.com
 *.Norln.com
+*.norlenn.com
