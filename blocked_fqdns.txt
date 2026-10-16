@@ -190,3 +190,11 @@ mylovedomen.asia
 *.Ryarson.com
 *.Norln.com
 *.norlenn.com
+*.Norlen.pl
+*.Ryerson-us.com
+*.Olysteel.net
+*.Olysteeel.com
+*.Ryerrsons.com
+*.Ryerso.com
+*.Noblen.com
+*.Noerlen.com
